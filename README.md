@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/48133426/113414215-1afeec80-93da-11eb-8362-285473f786bd.jpg)
+
 # Chat App
 A real-time chat application using WebAPI & SignalR. Available for Web and Desktop.
 

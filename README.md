@@ -1,2 +1,24 @@
-# WebAPI-SignalR-ChatApplication
-WebAPI + SignalR Multiuser Chat Application.
+# Chat App
+A real-time chat application using WebAPI & SignalR. Available for Web and Desktop.
+
+## Features
+* Group chat
+* Private chat `/private(Name) Hello, how are you?`
+* Photo message
+* Basic Emojis
+* Chat Rooms
+
+## Getting Started
+In order to run Desktop application you need first to run Chat.Web project which is the Chat Service
+
+1. Grab the Project
+2. Open Visual Studio as Administrator and load the Solution
+3. Resolve any missing/required nuget package
+
+### For Chat.Web
+1. Build Database. Open `Package Manager Console` and run the following commands: <br />
+`update-database` <br />
+2. That's all... Run the Project!
+
+### For Chat.Desktop
+1. Run the desktop application: `Right-Click -> Debug -> Start new instance`

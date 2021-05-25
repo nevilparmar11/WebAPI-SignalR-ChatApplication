@@ -51,7 +51,7 @@ In order to run Desktop application you need first to run Chat.Web project which
 <img src="https://user-images.githubusercontent.com/48133426/113413215-bb9fdd00-93d7-11eb-97d9-a97ebdf0623b.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/113412465-fb65c500-93d5-11eb-9b76-efeaf077f7e1.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/113412704-9bbbe980-93d6-11eb-82fa-72cb12ebc415.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/113413564-98296200-93d8-11eb-8a1b-054b9df8acc9.png" width="45%"></img> 
 
 ## Live Demo
-[Visit Demo](http://bit.ly/soc_webapi_demo) <br>
+[Visit Demo](https://youtu.be/Vz5eGNhV74s) <br>
 
 ### The MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/nevilparmar11/WebAPI-SignalR-ChatApplication/blob/main/LICENSE)  
